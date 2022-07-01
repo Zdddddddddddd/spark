@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/src/main/java/test.sql" dialect="GenericSQL" />
+    <file url="PROJECT" dialect="HiveQL" />
+  </component>
+  <component name="SqlResolveMappings">
+    <file url="PROJECT" scope="{&quot;node&quot;:{  &quot;@negative&quot;:&quot;1&quot;,  &quot;group&quot;:{   &quot;@kind&quot;:&quot;root&quot;,   &quot;node&quot;:{    &quot;name&quot;:{     &quot;@qname&quot;:&quot;1843fa4d-676c-49da-8dc8-e82421471974&quot;    },    &quot;name&quot;:{     &quot;@qname&quot;:&quot;1e8f9a58-cab9-488b-acf2-be479751cd06&quot;    }   }  } }}" />
+  </component>
+</project>
